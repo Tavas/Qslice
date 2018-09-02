@@ -1,1 +1,1 @@
-# Qslice
+# Q slicing project
